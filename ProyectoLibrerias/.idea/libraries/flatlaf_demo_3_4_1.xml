@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="flatlaf-demo-3.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-demo-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/flatlaf-intellij-themes-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-common-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgoodies-looks-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JTattoo-1.6.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/substance-4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
